@@ -5,7 +5,6 @@ import discord
 import random
 import asyncio
 import os
-from PIL import Image
 import json
 #-----------------
 
