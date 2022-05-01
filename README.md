@@ -1,5 +1,6 @@
 # pyEconomiaSimples
 Bot simples de economia para Discord feito em Python
+
 É tipo, bem simples mesmo. Não tô zoando.
 
 # Requisitos
